@@ -1,0 +1,62 @@
+ERROR   2022-11-03 13:37:10,915 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 13:37:11,347 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 13:40:06,322 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 13:40:06,568 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 14:22:53,720 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 14:33:52,049 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 14:36:06,762 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 14:36:09,850 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 14:47:29,764 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 14:51:20,915 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 14:51:21,200 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:11:04,399 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:11:50,401 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:16:38,011 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:16:38,020 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:19:28,080 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:19:28,083 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:36:23,312 [main] dao.DentistDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:37:25,378 [main] dao.DentistDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:39:29,380 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:40:09,922 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:43:33,426 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:44:14,450 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:44:54,751 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:46:04,800 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 15:56:57,787 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:05:26,425 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:08:18,433 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:24:25,756 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:25:35,532 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:25:35,535 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:26:32,604 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:26:32,650 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:27:24,493 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:27:24,554 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:30:21,452 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-03 16:47:27,961 [main] dao.PatientDao  - Ha ocurrido un error en la base de datos
+ERROR   2022-11-06 21:38:02,273 [main] dao.DentistDao  - Ha ocurrido un error en la base de datos
+INFO    2022-11-06 22:58:07,422 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-06 22:58:17,065 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-06 23:30:18,985 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-06 23:57:06,154 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-06 23:57:07,672 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:02:59,157 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:03:02,368 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:03:03,152 [main] dao.PatientDao  - El directorio  ha sido creado exitosamente
+INFO    2022-11-07 00:23:23,290 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:23:24,973 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:23:26,283 [main] dao.PatientDao  - El directorio  ha sido creado exitosamente
+INFO    2022-11-07 00:28:43,062 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:28:44,643 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:28:46,568 [main] dao.PatientDao  - El directorio  ha sido creado exitosamente
+INFO    2022-11-07 00:38:59,230 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:39:03,407 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:39:05,900 [main] dao.PatientDao  - El directorio  ha sido creado exitosamente
+INFO    2022-11-07 00:44:20,607 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:44:22,255 [main] dao.PatientDao  - El paciente ha sido añadido
+INFO    2022-11-07 00:44:23,323 [main] dao.PatientDao  - El directorio  ha sido creado exitosamente
+INFO    2022-11-07 00:44:23,433 [main] dao.DentistDao  - El dentista ha sido añadido
+INFO    2022-11-07 00:44:23,439 [main] dao.DentistDao  - El dentista ha sido añadido
+INFO    2022-11-07 00:46:21,976 [main] dao.DentistDao  - El dentista ha sido añadido
+INFO    2022-11-07 00:46:24,065 [main] dao.DentistDao  - El dentista ha sido añadido
